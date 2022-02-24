@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\rolling glory works\\\\learn-nuxt\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_32739fce"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\rolling glory works\\\\learn-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_067e0ade"
+  }
+]
